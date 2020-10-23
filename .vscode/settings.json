@@ -1,0 +1,8 @@
+{
+    "powermode.shakeIntensity": 0,
+    "powermode.presets": "exploding-rift",
+    "powermode.maxExplosions": 1000,
+    "powermode.explosionOffset": 0.3,
+    "powermode.comboThreshold": 5,
+    "powermode.backgroundMode": "image"
+}
